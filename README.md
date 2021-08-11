@@ -5,7 +5,7 @@
 
 - Fui parte del grupo de investigación Data Science y Ciencias Sociales [analizando las leyes argentinas de los últimos diez años](https://github.com/mvsticco/leyes-y-genero-arg)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/magdalena-sticco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-sticco/" height="30" width="40" /></a>
 </p>
