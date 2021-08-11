@@ -3,6 +3,8 @@
 
 - Actualmente trabajo como líder de un equipo de análisis de datos. [Un ejemplo de un trabajo realizado para AySA](https://www.aysa.com.ar/data/indicadores_sociales)
 
+- Desde el 2020 soy ayudante de cátedra en la materia [Metodología de análisis en opinión pública](https://github.com/mvsticco/MET4OP)
+
 - Fui parte del grupo de investigación Data Science y Ciencias Sociales [analizando las leyes argentinas de los últimos diez años](https://github.com/mvsticco/leyes-y-genero-arg)
 
 <h3 align="left">Contacto:</h3>
