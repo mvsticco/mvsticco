@@ -1,9 +1,9 @@
 <h1 align="center">Hola! Soy Magdalena</h1>
 <h3 align="center">Soy estudiante avanzada de Sociología (UBA). Me interesa orientar mi carrera profesional hacia la Data Science.</h3>
 
-- Actualmente trabajo como BI & Strategy Analyst en [Digital House](https://www.digitalhouse.com/)
+- Actualmente trabajo como BI & Strategy Analyst en [Digital House](https://www.digitalhouse.com/).
 
-- Trabajé ocho meses como líder de un equipo de análisis de datos en una consultora política. [Un ejemplo de un trabajo realizado para AySA](https://www.aysa.com.ar/data/indicadores_sociales)
+- Trabajé ocho meses como líder de un equipo de análisis de datos en una consultora política. [Un ejemplo de un trabajo realizado para AySA](https://www.aysa.com.ar/data/indicadores_sociales).
 
 - Además realicé algunos trabajos freelance de consultoría de opinión pública. 
 
