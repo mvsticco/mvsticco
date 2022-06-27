@@ -1,5 +1,6 @@
 <h1 align="center">Hola! Soy Magdalena</h1>
-<h3 align="center">Soy reciente graduada de Sociología (UBA).</h3>
+
+Durante la carrera complementé mis estudios formandome en ciertos lenguajes y herramientas de análisis y visualización de datos (SQL, Python, Power BI) con el fin de poder vincular los conocimientos sociológicos y el analisis cuantitativo orientado a los negocios.
 
 - Actualmente trabajo como BI & Strategy Analyst en [Digital House](https://www.digitalhouse.com/).
 
